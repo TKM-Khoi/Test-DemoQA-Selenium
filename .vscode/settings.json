@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "FinalUiSeleniumNunit.sln",
+    "[csharp]": { "editor.codeActionsOnSave": [ "source.organizeImports" ] }
+}
